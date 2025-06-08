@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/Tugas11/tugas11n.dart';
+import 'package:myapp/Tugas12/tugas12n.dart';
 
 
 
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: Tugas11n()
+      home: Tugas12n()
     );
   }
 }
